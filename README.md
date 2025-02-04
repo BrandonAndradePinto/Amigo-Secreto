@@ -3,6 +3,7 @@
 ¡Bienvenido al Sorteo de Amigo Secreto! Esta página web te permite crear una lista de amigos y sortear aleatoriamente a uno de ellos para tu amigo secreto.
 
 ## Cómo funciona
+![Amigo secreto](https://github.com/user-attachments/assets/db9f417e-0c3e-42e3-9eef-d4d4e2c25bfc)
 
 1. **Añadir amigos:**
    - Ingresa el nombre de tu amigo en el cuadro de texto.
